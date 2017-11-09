@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8e16177f1b256f6489a87fc6315f87cc
+timeCreated: 1510005758
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cannonBall: {fileID: 1742711512719896, guid: e6f4c108754e71d4681447674d3355c6,
+      type: 2}
+  - rocket: {fileID: 1113376627697060, guid: 7c0fc97a0c7ecad4d90f53567735f32e, type: 2}
+  - sheep: {fileID: 1295365629775894, guid: 23165351849025448aefd0a7fd262c08, type: 2}
+  - woolExplosion: {fileID: 1676158495839600, guid: 7820f2955b29fd940bab9be4003f2ef0,
+      type: 2}
+  executionOrder: 1
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
